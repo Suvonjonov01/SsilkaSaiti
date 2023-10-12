@@ -1,0 +1,30 @@
+body{
+	background-image: url('../image/fon1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+h1{
+	text-align: center;
+	font-size: 35px;
+	color: white;
+}
+
+div{
+	width: 400px;
+	margin: auto;
+}
+
+a{
+	font-size: 30px;
+	display: block;
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0.8);
+	color: white;
+	padding: 10px 0px;
+	margin-top: 10px;
+	border-radius: 10px;
+	border: 2px solid white;
+	text-decoration: none;
+}
